@@ -1,3 +1,3 @@
 ### Vanila JS photo gallery
 
-Link: https://github.com/dmitrylaskin/vanilla-js-gallery
+Link: https://dmitrylaskin.github.io/vanilla-js-gallery
